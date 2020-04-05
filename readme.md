@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/JeanLLopes/Applying-Functional-Principles/workflows/.NET%20Core/badge.svg?branch=master)
+
 O que programação funcional ?
 Imutabilidade ?
 
