@@ -34,4 +34,13 @@ Another good reasson is thread safe, you not have a others threads in concurrenc
 - Return a "result" clas with result of method
 - The result of a validation needs inform more details about this exception
 
+<br>
+
+## Avoidign Primitive Obsession
+
+- Create a especific types to declare with more simples what you send
+- Define the rules in only one way
+- don't duplicate code (DRY) 
+
+
 
