@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6D58E4A-79AB-464E-8DE7-EA524A603486}"
 	ProjectSection(SolutionItems) = preProject
 		readme.md = readme.md
+		C:\Users\Jean\AppData\Local\Temp\FuntionalPrinciplesCsharp-master\reference.png = C:\Users\Jean\AppData\Local\Temp\FuntionalPrinciplesCsharp-master\reference.png
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module2", "Module2\Module2.csproj", "{8EEEAF4B-6834-4EF8-84AB-BF0E0E53A1F0}"
