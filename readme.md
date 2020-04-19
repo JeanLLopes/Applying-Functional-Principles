@@ -2,7 +2,7 @@
 
 ![.NET Core](https://github.com/JeanLLopes/Applying-Functional-Principles/workflows/.NET%20Core/badge.svg?branch=master)
 
-O que programação funcional ?
+O que programaÃ§Ã£o funcional ?
 Imutabilidade ?
 
 ## MATHEMETICAL FUNCIONS
@@ -34,6 +34,8 @@ Another good reasson is thread safe, you not have a others threads in concurrenc
 - Return a "result" clas with result of method
 - The result of a validation needs inform more details about this exception
 
+
+
 <br>
 
 ## Avoidign Primitive Obsession
@@ -42,5 +44,10 @@ Another good reasson is thread safe, you not have a others threads in concurrenc
 - Define the rules in only one way
 - don't duplicate code (DRY) 
 
+<br>
+
+### Reference
+![reference](https://user-images.githubusercontent.com/12099889/79679514-029fbd00-81dd-11ea-841e-994f406f9873.png)
 
 
+.
